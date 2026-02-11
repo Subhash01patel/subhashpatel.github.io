@@ -53,10 +53,9 @@ Built a machine learning model to identify fraudulent transactions.
 
 ## 📬 Contact Me
 
-📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
-💻 GitHub: https://github.com/yourusername
-
+📧 Email: patelsubhash7766@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/subhash-patel-a26031286
+💻 GitHub: https://github.com/Subhash01patel
 ---
 
 ⭐ If you like this project, feel free to star the repository!
